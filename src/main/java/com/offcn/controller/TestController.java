@@ -18,4 +18,11 @@ public class TestController {
     public String getSession(HttpSession session){
         return (String)session.getAttribute("msg");
     }
+
+    /**
+     * 分支1新增方法测试
+     */
+    public void fenzhi1(){
+        System.out.println("分支1新增方法测试");
+    }
 }
