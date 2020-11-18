@@ -20,9 +20,12 @@ public class TestController {
     }
 
     /**
-     * 分支1新增方法测试
+     * 分支2新增方法测试
      */
-    public void fenzhi1(){
+
+    public void fenzhi2(){
         System.out.println("分支19新增方法测试");
     }
+
+
 }
